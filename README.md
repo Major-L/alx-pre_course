@@ -1,2 +1,2 @@
 My first readme today
-home alone
+i am cool
