@@ -1,2 +1,2 @@
 My first readme today
-i am cool
+i am cool always
